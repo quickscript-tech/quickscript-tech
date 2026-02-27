@@ -1,16 +1,22 @@
-## Hi there 👋
+# QuickScript
 
-<!--
-**quickscript-tech/quickscript-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fast, clean technical help for WordPress/WooCommerce + Python automation.
 
-Here are some ideas to get you started:
+## What I do
+- WordPress/WooCommerce troubleshooting, bug fixes, plugin/theme conflicts
+- Safe diagnostics + sanitized reports for fast handoff
+- Python automation & data extraction pipelines (offline-capable demos)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **WP/Woo Quick Fix Kit (MU)** — diagnostics dashboard + sanitized report export  
+  https://github.com/quickscript-tech/wp-woo-quick-fix-kit
+- **Offline Data Extraction Pipeline (Python CLI)** — HTML → JSON/CSV with validation + tests  
+  https://github.com/quickscript-tech/quickscript-data-extraction-pipeline
+
+## Working style
+- Clear scope, fast response, clean deliverables
+- No destructive actions without approval
+- Reproducible demos and documented handoff
+
+## Contact
+(Links will be added here: Upwork / Fiverr / Email)
